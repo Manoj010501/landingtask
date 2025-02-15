@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue;
+}
+.image-container {
+    display: flex;
+    align-items: center; /* Optional: Align images vertically */
+    gap: 20px; /* Optional: Adds spacing between images */
+}
